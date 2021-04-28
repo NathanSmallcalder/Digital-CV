@@ -1,5 +1,5 @@
 Nathan Roger Alexander Smallcalder 
-nmallcalder5@gmail.com 
+nsmallcalder5@gmail.com 
 07449 332823 
 [Link](https://www.linkedin.com/in/nathan-smallcalder-b83673209/)
 
