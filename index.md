@@ -9,7 +9,8 @@ nsmallcalder5@gmail.com <br>
 I am a first year Computer Science student at Canterbury Christ Church University, I am looking to gain some experience as a software engineer. I have proven myself as a determined and hardworking student, by achieving high grades in college, as well as in my first modules at university, and can also manage and organise my time effectively between my part-time job and my studies. I am also a keen and adaptable learner, who is willing to take new ideas and styles to help me improve.
 
 # Education & Qualifications
-2020 		Canterbury Christ Church University    					           BSc (Hons) Computer Science <br>
+2020 -Present Canterbury Christ Church University  <br>  					          
+BSc (Hons) Computer Science <br>
 -Application Development in C# <br>
 -Fundamentals of Computer Systems <br>
 -Software Development <br>
