@@ -11,14 +11,14 @@ I am a first year Computer Science student at Canterbury Christ Church Universit
 # Education & Qualifications
 2020 -Present Canterbury Christ Church University  <br>  					          
 BSc (Hons) Computer Science <br>
--Application Development in C# <br>
--Fundamentals of Computer Systems <br>
--Software Development <br>
--Group Development Project <br>
--Software Engineering  <br>
--Database Development  <br>
--Artificial Intelligence <br>
--Networking and Operating Systems <br>
+•	Application Development in C# <br>
+•	Fundamentals of Computer Systems <br>
+•	Software Development <br>
+•	Group Development Project <br>
+•	Software Engineering  <br>
+•	Database Development  <br>
+•	Artificial Intelligence <br>
+•	Networking and Operating Systems <br>
  <br>
 Group Project: Creation of a Quiz Application using SQL and Python 
 
@@ -48,16 +48,16 @@ Extended Diploma in Information Technology D*DD (Dist*, Dist, Dist)
 
 # Skills
 Team Work	 <br> 
-*Working at the Mast and Rigging has helped me develop my communication and team working skills, as I have to communicate with the team to ensure that they have all              the kitchen equipment, or food that they need to keep the restaurant moving.<br>
-*Various group projects on my course at university has allowed me to develop some leadership skills to allocate workloads to others, discuss weaknesses or                        problems and, as a team how we can work around or overcome them.<br>
+•	Working at the Mast and Rigging has helped me develop my communication and team working skills, as I have to communicate with the team to ensure that they have all              the kitchen equipment, or food that they need to keep the restaurant moving.<br>
+•	Various group projects on my course at university has allowed me to develop some leadership skills to allocate workloads to others, discuss weaknesses or                        problems and, as a team how we can work around or overcome them.<br>
 
 Problem Solving <br>
-*Planning university projects has helped me break problems down, making me more focus on designing the application and thinking about problems and potential                     solutions whilst planning the project.<br>
-*Working on projects at University has helped me better evaluate different situations/requirements and find a most efficient solution to match the problem.<br>
+•	Planning university projects has helped me break problems down, making me more focus on designing the application and thinking about problems and potential                     solutions whilst planning the project.<br>
+•	Working on projects at University has helped me better evaluate different situations/requirements and find a most efficient solution to match the problem.<br>
 
 Technical	 <br>
-*Performing maintenance on PCs around my house, replacing and installing parts, such as RAM, graphics cards and storage devices.<br>
-*Design and building of applications for my course, consisting of an algorithm simulator and a python-based quiz application.<br>
+•	Performing maintenance on PCs around my house, replacing and installing parts, such as RAM, graphics cards and storage devices.<br>
+•	Design and building of applications for my course, consisting of an algorithm simulator and a python-based quiz application.<br>
 
 
 # Intrests
