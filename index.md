@@ -10,9 +10,15 @@ I am a first year Computer Science student at Canterbury Christ Church Universit
 
 # Education & Qualifications
 2020 		Canterbury Christ Church University    					           BSc (Hons) Computer Science <br>
-Main subjects: Application Development in C#, Fundamentals of Computer Systems, Software Development, Group Development Project, Software Engineering, 
-Database Development, Artificial Intelligence, Networking and Operating Systems.
-
+-Application Development in C# <br>
+-Fundamentals of Computer Systems <br>
+-Software Development <br>
+-Group Development Project <br>
+-Software Engineering  <br>
+-Database Development  <br>
+-Artificial Intelligence <br>
+-Networking and Operating Systems <br>
+ <br>
 Group Project: Creation of a Quiz Application using SQL and Python 
 
 2017-2019	MidKent College <br>
