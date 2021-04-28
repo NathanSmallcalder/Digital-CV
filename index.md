@@ -24,8 +24,8 @@ Extended Diploma in Information Technology D*DD (Dist*, Dist, Dist)
 
 # Technical Skills
 
-•	Competent with MS Office, Windows 10, Visual Studio and GitHub
-•	Basic ability in SQl, Python and C# 
+•Competent with MS Office, Windows 10, Visual Studio and GitHub <br>
+•Basic ability in SQl, Python and C# 
 
 # Work History
 
