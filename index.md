@@ -38,8 +38,9 @@ Extended Diploma in Information Technology D*DD (Dist*, Dist, Dist)
 
 2018 - Present   Employment 		Mast and Rigging 			Kitchen Porter
 
-•	Ensuring that dishes and cutlery are kept clean, too a high standard<br>
+•	Washing dishes,cutterly and cooking equitment too a high standard<br>
 •	Communicating with the kitchen/front of house team to ensure that Pizzas/Desserts are sent out on time, with other food to meet consumer’s needs.<br>
+•	Cleaning and maintaining workspaces by keeping them clean, inline with hygiene and health regulations.
 •	Closing equipment and making sure the sections are cleaned before closing the Kitchen<br>
 <br>
 2018	Work Experience 		PDSA Chatham			Store Assistant	<br>		
