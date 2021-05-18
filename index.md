@@ -50,11 +50,11 @@ Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
 
 # Skills
 <b>Team Work</b>	 <br> 
-•	Working at the Mast and Rigging has helped me develop my communication and team working skills, as I have to communicate with the team to ensure that they have all the kitchen equipment or food that they need to keep the restaurant moving.<br>
+•	Working at the Mast and Rigging has helped me develop my communication and team working skills, as I have to communicate with the team to ensure that they have all the kitchen equipment or food that they need to keep the restaurant functioning.<br>
 •	Various group projects on my course at university has allowed me to develop some leadership skills to allocate workloads to others, discuss weaknesses or                        problems and, as a team how we can work around or overcome them.<br>
 
 <b>Problem Solving</b> <br>
-•	Planning university projects has helped me break problems down, making me more focused on designing the application and thinking about problems and potential solutions whilst planning the project.<br>
+•	Planning university projects has helped me break problems down, allowing me to focus on designing the application and thinking about problems and potential solutions whilst planning the project.<br>
 •	Working on projects at University has helped me better evaluate different situations/requirements and find the most efficient solution to match the problem.<br>
 
 <b>Technical</b> <br>
