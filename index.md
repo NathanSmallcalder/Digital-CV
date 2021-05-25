@@ -62,6 +62,6 @@ Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
 •	Design and building of applications for my course, consisting of an algorithm simulator and a python-based quiz application.<br>
 
 
-# Intrests
+# Interests
 
 Alongside developing my programming skills in my free time, I also play competitive team-based games on my computer, as well as playing football on the side.
