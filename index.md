@@ -7,21 +7,17 @@ nsmallcalder5@gmail.com <br>
 
 
 # Statement
-I am a first-year Computer Science student at Canterbury Christ Church University, I am looking to gain some experience as a software engineer. I have proven myself as a determined and hardworking student, by achieving high grades in college, as well as my first modules at university, and can also manage and organize my time effectively between my part-time job and my studies. On top of this, I am a keen and flexable learner, who is always willing to learn and adapt to new ideas and styles which help me improve.
+I am a Second year Computer Science student at Canterbury Christ Church University, I am looking to gain some experience as a software engineer. I have proven myself as a determined and hardworking student, by achieving high grades in college, as well as my first modules at university, and can also manage and organize my time effectively between my part-time job and my studies. On top of this, I am a keen and flexable learner, who is always willing to learn and adapt to new ideas and styles which help me improve.
 
 # Education & Qualifications
 2020 -Present Canterbury Christ Church University  <br>  					          
 BSc (Hons) Computer Science <br>
-•	Application Development in C# <br>
-•	Fundamentals of Computer Systems <br>
-•	Software Development <br>
-•	Group Development Project <br>
-•	Software Engineering  <br>
-•	Database Development  <br>
+•	Object-Orientated Programming <br>
+•	Database Enhancement Group Project <br>
+•	Software Engineering <br>
+•	Web Development <br>
 •	Artificial Intelligence <br>
 •	Networking and Operating Systems <br>
- <br>
-Group Project: Creation of a Quiz Application using SQL and Python 
 
 2017-2019	MidKent College <br>
 Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
@@ -32,7 +28,7 @@ Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
 # Technical Skills 
 
 •Competent with MS Office, Windows 10, Visual Studio and GitHub <br>
-•Basic ability in SQL, Python, and C# 
+•Knowledgable in Postgres, Python, and C# 
 
 # Work History
 
