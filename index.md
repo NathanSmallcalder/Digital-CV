@@ -7,7 +7,7 @@ nsmallcalder5@gmail.com <br>
 
 
 # Statement
-I am a Second year Computer Science student at Canterbury Christ Church University, I am looking to gain some experience as a software engineer. I have proven myself as a determined and hardworking student, by achieving high grades in college, as well as my first modules at university, and can also manage and organize my time effectively between my part-time job and my studies. On top of this, I am a keen and flexable learner, who is always willing to learn and adapt to new ideas and styles which help me improve.
+I am a Second year Computer Science student at Canterbury Christ Church University, I am looking to gain some experience as a software engineer. I have proven myself as a determined and hardworking student, by achieving high grades in college, as well as my first year at university, and can also manage and organize my time effectively between my part-time job and my studies. On top of this, I am a keen and flexable learner, who is always willing to learn and adapt to new ideas and styles which help me improve.
 
 # Education & Qualifications
 2020 -Present Canterbury Christ Church University  <br>  					          
