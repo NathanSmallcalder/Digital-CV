@@ -32,7 +32,7 @@ Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
 
 # Work History
 
-2018 - Present   Employment 		Mast and Rigging 			Kitchen Porter
+2018 - May 2022   Employment 		Mast and Rigging 			Kitchen Porter
 
 •	Washing dishes, cutlery, and cooking equipment to a high standard<br>
 •	Communicating with the kitchen/front of house team to ensure that Pizzas/Desserts are sent out on time, with other food to meet consumer’s needs.<br>
