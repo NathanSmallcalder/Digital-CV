@@ -7,17 +7,27 @@ nsmallcalder5@gmail.com <br>
 
 
 # Statement
-I am a Third year Computer Science student at Canterbury Christ Church University, I am looking to gain some experience as a software engineer. I have proven myself as a determined and hardworking student, by achieving high grades in college, as well as my first year at university, and can also manage and organize my time effectively between my part-time job and my studies. On top of this, I am a keen and flexable learner, who is always willing to learn and adapt to new ideas and styles which help me improve.
+Recently graduated Computer Science professional seeking employment as a software engineer. I have showcased 
+my unwavering determination and strong work ethic through my academic achievements, including consistently 
+high grades, while successfully balancing my studies with a part-time job. As a proactive and adaptable learner, I 
+possess a keen enthusiasm for acquiring new knowledge and staying up-to-date with emerging trends in order to 
+continuously enhance my skill set.
+
 
 # Education & Qualifications
-2020 -Present Canterbury Christ Church University  <br>  					          
-BSc (Hons) Computer Science <br>
-•	Object-Orientated Programming <br>
-•	Database Enhancement Group Project <br>
-•	Software Engineering <br>
-•	Web Development <br>
-•	Artificial Intelligence <br>
-•	Networking and Operating Systems <br>
+2020 - 2023 Computer Science, Canterbury Christ Church Canterbury<br>
+Graduated with High Honours<br>
+Computer Science Key subjects:<br>
+• Application Development in C#<br>
+• Programming Frameworks and Languages<br>
+• High-Performance Computing<br>
+• Software Engineering<br>
+• Advanced Database Development<br>
+• Web Development<br>
+• Artificial Intelligence<br>
+• Advanced Networking and Operating Systems.<br>
+Dissertation/Individual Project: Developed a Flask web application that enables users to analyse and predict 
+real-time or hypothetical scenarios using the Riot Games API and Random Forest.<br>
 
 2017-2019	MidKent College <br>
 Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
@@ -32,18 +42,20 @@ Extended Diploma in Information Technology DDD (Dist, Dist, Dist)
 
 # Work History
 
-June 2022 - Present Chef
+June 2022 - Chef, Shepard and Neame Chatham
+• Expertly prepare and craft food items for cooking, ensuring adherence to high-quality standards.<br>
+• Consistently prioritise customer satisfaction by delivering exceptional food quality and impeccable 
+presentation.<br>
 
 2018 - May 2022   Employment 		Mast and Rigging 			Kitchen Porter
 
-•	Washing dishes, cutlery, and cooking equipment to a high standard<br>
-•	Communicating with the kitchen/front of house team to ensure that Pizzas/Desserts are sent out on time, with other food to meet consumer’s needs.<br>
-•	Cleaning and maintaining workspaces by keeping them clean, in line with hygiene and health regulations.
-•	Closing equipment and making sure the sections are cleaned before closing the Kitchen<br>
+• Washed dishes, utensils and other kitchen items, ensuring a clean and hygienic kitchen<br>
+• Performed basic food preparation tasks, such as chopping vegetables, to help in the kitchen during peak 
+hours<br>
+• Stocked and replenished kitchen supplies to ensure all ingredients were available for the kitchen team<br>
+• Prepared and cooked food according to recipes, ensuring consistent quality and presentation of dishes
 <br>
-2018	Work Experience 		PDSA Chatham			Store Assistant	<br>		
-•	Worked on the till communicating with and serving customers <br>
-•	Running stock checks, replacing older stock<br>
+<br>
 
 
 # Skills
